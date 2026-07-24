@@ -10,8 +10,8 @@ from openai import OpenAI
 # ===========================================================================
 # 1. CẤU HÌNH API KEYS & CHẠY SONG SONG
 # ===========================================================================
-OPENROUTER_API_KEY = "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"
-SERPER_API_KEY = "d921606b7d32371b5225f571b1f76a2e28198ea9"  # 👈 Dán Serper API Key vào đây
+OPENROUTER_API_KEY = "You"
+SERPER_API_KEY = "You"  # 👈 Dán Serper API Key vào đây
 
 OPENROUTER_BASE_URL = "https://openrouter.ai/api/v1"
 MODEL_NAME = "openai/gpt-4o-mini"
