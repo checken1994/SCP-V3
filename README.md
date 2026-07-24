@@ -19,8 +19,8 @@ Evaluated across 1,000 multi-domain questions using the **RAGAS Framework**:
 - **Context Precision:** `99.46%`
 - **Context Recall:** `99.46%`
 
-![Overall RAGAS Scores](reports/overall_ragas_scores.png)
-![Domain RAGAS Scores](reports/domain_ragas_scores.png)
+![Overall RAGAS Scores](overall_ragas_scores.png)
+![Domain RAGAS Scores](domain_ragas_scores.png)
 
 ---
 
